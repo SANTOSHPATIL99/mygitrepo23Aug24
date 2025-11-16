@@ -1,0 +1,1 @@
+"# mygitrepo23Aug24"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/SANTOSHPATIL99/mygitrepo23Aug24.gitgit push -u origin main
